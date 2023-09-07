@@ -7,7 +7,7 @@ My name is Jordan Muller! I have a Bachelors of Science in Computer Science & a 
 ### Programming & Markup Languages:
 My top languages are always changing as I continue to work on new projects, however, here is a rough estimate of the languages showcased publically here on GitHub:  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,C++)](https://github.com/anuraghazra/github-readme-stats)  
 
 While my current focus is on Web Development, I try to choose which language will be used for each project instead of always using what I'm comfortable with. Currently, I'm actively studying & specializing in:  
 
