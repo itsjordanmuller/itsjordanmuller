@@ -30,9 +30,10 @@ Passion for Helping People & Solving Problems
 <div>
 <h4>Statistics</h4>
   
-![Profile Views](https://komarev.com/ghpvc/?username=itsjordanmuller&style=for-the-badge&color=blueviolet)
-  
-<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="180px" /></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="180px" /></a>
+<img src="https://komarev.com/ghpvc/?username=itsjordanmuller&style=for-the-badge&color=blueviolet"/> 
+
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=donut&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="200px"/></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="200px"/></a> <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula"/></a>
+
 </div>
 
 <div>
