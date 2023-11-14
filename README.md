@@ -1,4 +1,4 @@
-<h1>Hi 👋, my name is Jordan Muller</h1>
+<h2>Hi 👋, my name is Jordan Muller</h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://www.linkedin.com/in/itsjordanmuller)<br/>
