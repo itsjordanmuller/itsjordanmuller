@@ -14,11 +14,6 @@ Passion for Helping People & Solving Real World Problems
 
 ![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20address-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)<br/>
 
-<div>
-<h4>Statistics</h4>
-<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="180px" /></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="180px" /></a>
-</div>
-
 <h3>Skills, Languages & Frameworks</h3>
 
 <div>
@@ -34,6 +29,14 @@ Passion for Helping People & Solving Real World Problems
 <div>
 <h4>Developer Tools</h4>
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+</div>
+
+<div>
+<h4>Statistics</h4>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=itsjordanmuller&style=for-the-badge&color=blueviolet)
+  
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="180px" /></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="180px" /></a>
 </div>
 
 <div>
