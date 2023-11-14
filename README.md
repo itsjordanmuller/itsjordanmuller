@@ -19,7 +19,32 @@ Passion for Helping People & Solving Problems
 </div>
 
 <div>
-<h4>Statistics</h4>
+<h4>Recent Projects</h4>
+
+<a href="https://github.com/itsjordanmuller/2023-javascript-sandbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-javascript-sandbox&theme=dracula" />
+</a>
+
+<a href="https://github.com/itsjordanmuller/2023-python-100-days">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-python-100-days&theme=dracula" />
+</a>
+
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
+</a>
+
+<a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=50-in-50-html-css-javascript&theme=dracula" />
+</a>
+
+<a href="https://github.com/itsjordanmuller/css-100-days-challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
+</a>
+
+</div>
+
+<div>
+<h4>Contributions & Statistics</h4>
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=donut&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="200px"/></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="200px"/></a> <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=itsjordanmuller&style=for-the-badge&color=blueviolet"/>
