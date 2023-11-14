@@ -2,16 +2,12 @@
 
 ![Location](https://custom-icon-badges.demolab.com/badge/California-San%20Francisco%20Bay%20Area-purple?style=for-the-badge&logo=location&logoColor=white) ![Education](https://custom-icon-badges.demolab.com/badge/Bachelor%20of%20Science-Computer%20Science-gold?style=for-the-badge&logoColor=white&logo=mortar-board)
 
-<h3>
 Bachelor of Science in Computer Science <br/>
 New Graduate in the California San Francisco Bay Area<br/>
 Passion for Helping People & Solving Real World Problems
-</h3>
 
-<h4>Contact Information</h4>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller) [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://www.linkedin.com/in/itsjordanmuller)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://www.linkedin.com/in/itsjordanmuller)<br/>
 ![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20address-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)<br/>
 
 <h3>Skills, Languages & Frameworks</h3>
