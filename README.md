@@ -1,7 +1,8 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=54&duration=2500&pause=2500&color=FF79C6&background=282A36&center=true&vCenter=true&repeat=false&random=false&width=640&height=160&lines=Hi+%F0%9F%91%8B%2C+my+name+is;%F0%9F%8C%87++++Jordan+Muller++%F0%9F%8C%86" alt="My name is Jordan Muller Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=2750&color=FFB86C&background=282A36&center=true&vCenter=true&random=true&width=640&height=160&lines=%F0%9F%9A%80+I'm+exploring+new+frontiers!;%F0%9F%97%BA%EF%B8%8F+Let's+go+improve+the+world!;%F0%9F%92%A1+Together%2C+we'll+light+up+the+future!;%F0%9F%8E%AF+Aiming+to+make+impactful+changes!;%F0%9F%93%A3+Let+me+know+if+you+need+any+help!;%E2%9B%93%EF%B8%8F+Always+hoping+to+make+connections!;%E2%9D%A4%EF%B8%8F+Technology+is+my+biggest+passion!;%F0%9F%8C%B1+Growing+with+every+single+challenge!;%F0%9F%93%9A+I'm+always+learning+new+things!;%F0%9F%92%AB+I+am+shooting+for+beyond+the+stars!;%F0%9F%92%8C+An+open+love+letter+to+technology!;%F0%9F%94%8D+Always+hoping+to+learn+something+new!;%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+On+to+bigger+%26+better+things!;%F0%9F%94%8B+All+charged+up+%26+ready+to+go!;%F0%9F%8C%8A+Surfing+for+answers+to+all+my+questions!" alt="Random Subtitles Typing SVG" /></a>
+<h3>Hi 👋, my name is Jordan Muller</h3><br/>
 
-<h3>Hi 👋, my name is Jordan Muller</h3>
 
 [![My Website](https://custom-icon-badges.demolab.com/badge/My%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://www.linkedin.com/in/itsjordanmuller)<br/>
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
@@ -20,33 +21,53 @@ Passion for Helping People & Solving Problems
 
 <div>
 <h4>Recent Projects</h4>
-
+<details open>
+<summary>Learning Sandboxes</summary>
 <a href="https://github.com/itsjordanmuller/2023-javascript-sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-javascript-sandbox&theme=dracula" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-javascript-sandbox&theme=dracula" />
 </a>
 
 <a href="https://github.com/itsjordanmuller/2023-python-100-days">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-python-100-days&theme=dracula" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-python-100-days&theme=dracula" />
 </a>
 
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
 </a>
+</details>
 
+<details open>
+<summary>Challenges</summary>
 <a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=50-in-50-html-css-javascript&theme=dracula" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=50-in-50-html-css-javascript&theme=dracula" />
 </a>
 
 <a href="https://github.com/itsjordanmuller/css-100-days-challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
 </a>
+</details>
 
 </div>
 
 <div>
 <h4>Contributions & Statistics</h4>
-<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=donut&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="200px"/></a> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="200px"/></a> <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula"/></a>
+<details open>
+<summary>Most Used Languages</summary>
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=donut&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="200px"/></a>
+</details>
+  
+<details open>
+<summary>Streak Info</summary>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="200px"/></a>
+</details>
 
+<details open>
+<summary>Graph of Last 31 Days</summary>
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula"/></a>
+</details>
+
+<details open>
+<summary>Other Statistics</summary>
 <img src="https://komarev.com/ghpvc/?username=itsjordanmuller&style=for-the-badge&color=blueviolet"/>
 </div>
 
@@ -63,4 +84,6 @@ Passion for Helping People & Solving Problems
 <div>
 <h4>Hosting & Deploymnet</h4>
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</div>
+
 </div>
