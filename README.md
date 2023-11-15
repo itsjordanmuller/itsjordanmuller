@@ -61,7 +61,7 @@ Passion for Helping People & Solving Problems
 </details>
 
 <details open>
-<summary>Graph of Last 31 Days</summary>
+<summary>Graph of Last 31 Days 🗓️</summary>
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula"/></a>
 </details>
 
