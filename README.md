@@ -46,11 +46,11 @@ Passion for Helping People & Solving Problems
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=50-in-50-html-css-javascript&theme=dracula" />
 </a>
 </details>
-
 </div>
 
 <div>
 <h4>Contributions & Statistics</h4>
+
 <details open>
 <summary>Most Used Languages</summary>
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=donut&theme=dracula&langs_count=6&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" height="200px"/></a>
@@ -69,7 +69,13 @@ Passion for Helping People & Solving Problems
 <details open>
 <summary>Other Statistics</summary>
 <img src="https://komarev.com/ghpvc/?username=itsjordanmuller&style=for-the-badge&color=blueviolet"/>
-</div>
+</details>
+
+<details open>
+<summary>Graphs Missing?</summary>
+<blockquote>Sometimes graphs don't load. If that happens, you might see one/several blank cards above.<br/>
+Close & open the dropdown to refresh that card. Let me know if you find of a better fix!</blockquote>
+</details>
 
 <div>
 <h4>Libraries & Frameworks</h4>
