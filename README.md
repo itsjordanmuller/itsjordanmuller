@@ -66,7 +66,7 @@ Passion for Helping People & Solving Problems
 </details>
 
 <details open>
-<summary>Other Statistics</summary>
+<summary>Other Statistics 📈</summary>
 <img src="https://komarev.com/ghpvc/?username=itsjordanmuller&style=for-the-badge&color=blueviolet"/>
 </details>
 
