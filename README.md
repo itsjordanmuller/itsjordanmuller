@@ -36,7 +36,7 @@ Passion for Helping People & Solving Problems
 </details>
 
 <details open>
-<summary>Challenges</summary>
+<summary>Challenges 🏔️</summary>
 <a href="https://github.com/itsjordanmuller/css-100-days-challenge">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
 </a>
