@@ -21,7 +21,7 @@ Passion for Helping People & Solving Problems
 <div>
 <h4>🛠️ Recent Projects</h4>
 <details open>
-<summary>Learning Sandboxes</summary>
+<summary>Learning Sandboxes 📚</summary>
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
 </a>
