@@ -56,7 +56,7 @@ Passion for Helping People & Solving Problems
 </details>
   
 <details open>
-<summary>Streak Info</summary>
+<summary>Streak Info 🔥</summary>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" height="200px"/></a>
 </details>
 
