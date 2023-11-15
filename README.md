@@ -48,7 +48,7 @@ Passion for Helping People & Solving Problems
 </div>
 
 <div>
-<h4>Contributions & Statistics</h4>
+<h4>📊 Contributions & Statistics</h4>
 
 <details open>
 <summary>Most Used Languages</summary>
