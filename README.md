@@ -50,10 +50,10 @@ Passion for Helping People & Solving Problems
 <div>
 <h4>📊 Contributions & Statistics</h4>
 
-<details>
+<details open>
 <summary>Graphs Blank/Missing? ❓</summary>
-<blockquote>Sometimes graphs don't load. If that happens, you might see one/several blank cards above.<br/>
-Close & open the dropdown to refresh that card. Let me know if you find of a better fix!</blockquote>
+<blockquote>Sometimes graphs don't load. If that happens, close this dropdown.<br/>
+Let me know if you find of a better fix!</blockquote>
 </details>
 
 <details open>
