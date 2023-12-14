@@ -11,7 +11,7 @@ Bachelor of Science in Computer Science <br/>
 New Graduate in the California SF Bay Area<br/>
 Passion for Helping People & Solving Problems
 
-![Location](https://custom-icon-badges.demolab.com/badge/California-San%20Francisco%20Bay%20Area-purple?style=for-the-badge&logo=location&logoColor=white) ![Education](https://custom-icon-badges.demolab.com/badge/Bachelor%20of%20Science-Computer%20Science-gold?style=for-the-badge&logoColor=white&logo=mortar-board)
+[![Location](https://custom-icon-badges.demolab.com/badge/California-San%20Francisco%20Bay%20Area-purple?style=for-the-badge&logo=location&logoColor=white)](https://jam-webdev-portfolio.netlify.app/about/) [![Education](https://custom-icon-badges.demolab.com/badge/Bachelor%20of%20Science-Computer%20Science-gold?style=for-the-badge&logoColor=white&logo=mortar-board)](https://jam-webdev-portfolio.netlify.app/blog/graduating-with-bachelors-in-comp-sci/)
 
 <div>
 <h4>💻 Core Tech, Operating Systems & Tools</h4>
