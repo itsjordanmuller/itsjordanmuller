@@ -1,9 +1,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=54&duration=2500&pause=2500&color=FF79C6&background=282A36&center=true&vCenter=true&repeat=false&random=false&width=640&height=160&lines=Hi+%F0%9F%91%8B%2C+my+name+is;%F0%9F%8C%87++++Jordan+Muller++%F0%9F%8C%86" alt="My name is Jordan Muller Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=2750&color=FFB86C&background=282A36&center=true&vCenter=true&random=true&width=640&height=160&lines=%F0%9F%9A%80+I'm+exploring+new+frontiers!;%F0%9F%97%BA%EF%B8%8F+Let's+go+improve+the+world!;%F0%9F%92%A1+Together%2C+we'll+light+up+the+future!;%F0%9F%8E%AF+Aiming+to+make+impactful+changes!;%F0%9F%93%A3+Let+me+know+if+you+need+any+help!;%E2%9B%93%EF%B8%8F+Always+hoping+to+make+connections!;%E2%9D%A4%EF%B8%8F+Technology+is+my+biggest+passion!;%F0%9F%8C%B1+Growing+with+every+single+challenge!;%F0%9F%93%9A+I'm+always+learning+new+things!;%F0%9F%92%AB+I+am+shooting+for+beyond+the+stars!;%F0%9F%92%8C+An+open+love+letter+to+technology!;%F0%9F%94%8D+Always+hoping+to+learn+something+new!;%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+On+to+bigger+%26+better+things!;%F0%9F%94%8B+All+charged+up+%26+ready+to+go!;%F0%9F%8C%8A+Surfing+for+answers+to+all+my+questions!" alt="Random Subtitles Typing SVG" /></a>
 <h3>Hi 👋, my name is Jordan Muller</h3><br/>
 
-[![My Website](https://custom-icon-badges.demolab.com/badge/View%20My%20Personal-Portfolio%20Website-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jam-webdev-portfolio.netlify.app/)<br/>
+[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com)<br/>
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
 [![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
 
@@ -12,6 +11,8 @@ New Graduate in the California SF Bay Area<br/>
 Passion for Helping People & Solving Problems
 
 [![Location](https://custom-icon-badges.demolab.com/badge/California-San%20Francisco%20Bay%20Area-purple?style=for-the-badge&logo=location&logoColor=white)](https://jam-webdev-portfolio.netlify.app/about/) [![Education](https://custom-icon-badges.demolab.com/badge/Bachelor%20of%20Science-Computer%20Science-gold?style=for-the-badge&logoColor=white&logo=mortar-board)](https://jam-webdev-portfolio.netlify.app/blog/graduating-with-bachelors-in-comp-sci/)
+
+---
 
 <div>
 <h4>💻 Core Tech, Operating Systems & Tools</h4>
@@ -44,6 +45,8 @@ Passion for Helping People & Solving Problems
 
 </details>
 
+---
+
 <div>
 <h4>🛠️ Recent Projects</h4>
 <details open>
@@ -73,6 +76,8 @@ Passion for Helping People & Solving Problems
 </details>
 </div>
 
+---
+
 <div>
 <h4>📊 Contributions & Statistics</h4>
 
@@ -98,3 +103,11 @@ Let me know if you find of a better fix!</blockquote>
 </details>
 
 </div>
+
+---
+
+<h4>📑 Links & Contact</h4>
+
+[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com)<br/>
+[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
+[![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
