@@ -1,16 +1,17 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=54&duration=2500&pause=2500&color=FF79C6&background=282A36&center=true&vCenter=true&repeat=false&random=false&width=640&height=160&lines=Hi+%F0%9F%91%8B%2C+my+name+is;%F0%9F%8C%87++++Jordan+Muller++%F0%9F%8C%86" alt="My name is Jordan Muller Typing SVG" /></a>
-<h3>Hi 👋, my name is Jordan Muller</h3><br/>
+<h3>Hi 👋, my name is Jordan Muller</h3>
 
-[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com)<br/>
-[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
-[![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
+[![Education](https://custom-icon-badges.demolab.com/badge/Bachelor%20of%20Science-Computer%20Science-ffa648?style=for-the-badge&logoColor=white&logo=mortar-board)](https://jordanmuller/blog/graduating-with-bachelors-in-comp-sci/)
+[![Location](https://custom-icon-badges.demolab.com/badge/California-San%20Francisco%20Bay%20Area-d2b6fb?style=for-the-badge&logo=location&logoColor=white)](https://jordanmuller.com/about/)
 
 Bachelor of Science in Computer Science <br/>
 New Graduate in the California SF Bay Area<br/>
 Passion for Helping People & Solving Problems
 
-[![Location](https://custom-icon-badges.demolab.com/badge/California-San%20Francisco%20Bay%20Area-purple?style=for-the-badge&logo=location&logoColor=white)](https://jam-webdev-portfolio.netlify.app/about/) [![Education](https://custom-icon-badges.demolab.com/badge/Bachelor%20of%20Science-Computer%20Science-gold?style=for-the-badge&logoColor=white&logo=mortar-board)](https://jam-webdev-portfolio.netlify.app/blog/graduating-with-bachelors-in-comp-sci/)
+[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com)<br/>
+[![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
+[![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
 
 ---
 
