@@ -30,7 +30,7 @@ Passion for Helping People & Solving Problems
 
 <div>
 <h4>🛠️ Recent Projects</h4>
-<details open>
+<details>
 <summary>Learning Sandboxes 📚</summary>
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
@@ -45,7 +45,7 @@ Passion for Helping People & Solving Problems
 </a>
 </details>
 
-<details open>
+<details>
 <summary>Challenges 🏔️</summary>
 <a href="https://github.com/itsjordanmuller/css-100-days-challenge">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
