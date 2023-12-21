@@ -9,7 +9,7 @@ Bachelor of Science in Computer Science <br/>
 New Graduate in the California SF Bay Area<br/>
 Passion for Helping People & Solving Problems
 
-[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com)<br/>
+[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)<br/>
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
 [![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
 
@@ -89,7 +89,7 @@ Let me know if you find of a better fix!</blockquote>
 
 <h4>📑 Links & Contact</h4>
 
-[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com)<br/>
+[![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)<br/>
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
 [![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
 
