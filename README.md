@@ -59,31 +59,29 @@ Passion for Helping People & Solving Problems
 
 ---
 
-<div>
 <h4>📊 Contributions & Statistics</h4>
-
-<details open>
-<summary>Graphs Blank/Missing? ❓</summary>
-<blockquote>Sometimes graphs don't load. If that happens, close this dropdown.<br/>
-Let me know if you find of a better fix!</blockquote>
-</details>
   
 <details open>
 <summary>Streak Info 🔥</summary>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" width="60%"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" width="70%"/></a>
 </details>
 
 <details open>
 <summary>Graph of Last 31 Days 🗓️</summary>
-<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula" width="75%"/></a>
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula" width="85%"/></a>
 </details>
 
 <details open>
 <summary>Most Used Languages 📝</summary>
-<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=7&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" width="45%"/></a>
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=7&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" width="55%"/></a>
 </details>
 
-</div>
+<details open>
+<summary>Graphs Blank/Missing? ❓</summary>
+<blockquote>Sometimes graphs don't like to load the first time around.<br/>
+If that happens, try to open & close the dropdown or refresh the page!<br/><br/>
+Let me know if you find of a better fix!</blockquote>
+</details>
 
 ---
 
@@ -92,11 +90,3 @@ Let me know if you find of a better fix!</blockquote>
 [![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-210157?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)<br/>
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
 [![Email Address](https://custom-icon-badges.demolab.com/badge/e--mail%20me-itsjordanmuller@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white)](mailto:itsjordanmuller@gmail.com)<br/>
-
-Graphs Blank/Missing? ❓
-
-Sometimes graphs don't load.
-
-If that happens, you can either refresh the page or close & open the corresponding dropdown again. Let me know if you find of a better fix!
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=2750&color=FFB86C&background=282A36&center=true&vCenter=true&random=true&width=640&height=160&lines=%F0%9F%9A%80+I'm+exploring+new+frontiers!;%F0%9F%97%BA%EF%B8%8F+Let's+go+improve+the+world!;%F0%9F%92%A1+Together%2C+we'll+light+up+the+future!;%F0%9F%8E%AF+Aiming+to+make+impactful+changes!;%F0%9F%93%A3+Let+me+know+if+you+need+any+help!;%E2%9B%93%EF%B8%8F+Always+hoping+to+make+connections!;%E2%9D%A4%EF%B8%8F+Technology+is+my+biggest+passion!;%F0%9F%8C%B1+Growing+with+every+single+challenge!;%F0%9F%93%9A+I'm+always+learning+new+things!;%F0%9F%92%AB+I+am+shooting+for+beyond+the+stars!;%F0%9F%92%8C+An+open+love+letter+to+technology!;%F0%9F%94%8D+Always+hoping+to+learn+something+new!;%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93+On+to+bigger+%26+better+things!;%F0%9F%94%8B+All+charged+up+%26+ready+to+go!;%F0%9F%8C%8A+Surfing+for+answers+to+all+my+questions!" alt="Random Subtitles Typing SVG" /></a>
