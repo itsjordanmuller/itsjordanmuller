@@ -23,14 +23,17 @@ Passion for Helping People & Solving Problems
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://jam-webdev-portfolio.netlify.app/portfolio/tags/javascript/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://jam-webdev-portfolio.netlify.app/portfolio/tags/python/)
 
+<details>
+<summary>View More</summary>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /> <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" /> <img src="https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</details>
 </div>
 
 ---
 
 <div>
 <h4>🛠️ Recent Projects</h4>
-<details>
+<details open>
 <summary>Learning Sandboxes 📚</summary>
 <a href="https://github.com/itsjordanmuller/2023-react-sandbox">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
@@ -45,7 +48,7 @@ Passion for Helping People & Solving Problems
 </a>
 </details>
 
-<details>
+<details open>
 <summary>Challenges 🏔️</summary>
 <a href="https://github.com/itsjordanmuller/css-100-days-challenge">
   <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
@@ -60,27 +63,30 @@ Passion for Helping People & Solving Problems
 ---
 
 <h4>📊 Contributions & Statistics</h4>
-  
+
+<details open>
+<summary>Most Used Languages 📝</summary>
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=7&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" width="50%"/></a>
+</details>
+
+<details>
+<summary>View Streak 🔥 & Graph of Last 31 Days 🗓️</summary>
+
 <details open>
 <summary>Streak Info 🔥</summary>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" width="70%"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" width="65%"/></a>
 </details>
 
 <details open>
 <summary>Graph of Last 31 Days 🗓️</summary>
-<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula" width="85%"/></a>
+<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula" width="80%"/></a>
 </details>
 
-<details open>
-<summary>Most Used Languages 📝</summary>
-<a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=7&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" width="55%"/></a>
-</details>
+<h5>Graphs Blank/Missing? ❓</h5>
 
-<details open>
-<summary>Graphs Blank/Missing? ❓</summary>
-<blockquote>Sometimes graphs don't like to load the first time around.<br/>
-If that happens, try to open & close the dropdown or refresh the page!<br/><br/>
-Let me know if you find of a better fix!</blockquote>
+Sometimes graphs don't like to load the first time around.<br>
+If that happens, try to close & open this dropdown or refresh the page!<br><br>
+Let me know if you find of a better fix!
 </details>
 
 ---
