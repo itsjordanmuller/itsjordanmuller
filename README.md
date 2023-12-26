@@ -64,6 +64,12 @@ Passion for Helping People & Solving Problems
 
 <h4>📊 Contributions & Statistics</h4>
 
+<h5>Graphs Blank/Missing? ❓</h5>
+
+Sometimes graphs don't like to load the first time around.<br>
+If that happens, try to close & open this dropdown or refresh the page!<br><br>
+Let me know if you find of a better fix!
+
 <details open>
 <summary>Most Used Languages 📝</summary>
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=8&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" width="50%"/></a>
@@ -82,11 +88,6 @@ Passion for Helping People & Solving Problems
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula" width="80%"/></a>
 </details>
 
-<h5>Graphs Blank/Missing? ❓</h5>
-
-Sometimes graphs don't like to load the first time around.<br>
-If that happens, try to close & open this dropdown or refresh the page!<br><br>
-Let me know if you find of a better fix!
 </details>
 
 ---
