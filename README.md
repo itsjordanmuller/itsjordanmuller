@@ -17,6 +17,37 @@ I Love to Help People & Solve Problems
 ---
 
 <div>
+<h4>🛠️ Recent Projects</h4>
+<details open>
+<summary>Learning Sandboxes 📚</summary>
+<a href="https://github.com/itsjordanmuller/2023-react-sandbox">
+  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
+</a>
+
+<a href="https://github.com/itsjordanmuller/2023-javascript-sandbox">
+  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-javascript-sandbox&theme=dracula" />
+</a>
+
+<a href="https://github.com/itsjordanmuller/2023-python-100-days">
+  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-python-100-days&theme=dracula" />
+</a>
+</details>
+
+<details open>
+<summary>Challenges 🏔️</summary>
+<a href="https://github.com/itsjordanmuller/css-100-days-challenge">
+  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
+</a>
+
+<a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript">
+  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=50-in-50-html-css-javascript&theme=dracula" />
+</a>
+</details>
+</div>
+
+---
+
+<div>
 <h4>💻 Core Tech, Operating Systems & Tools</h4>
 
 | **Languages** | **Systems & Frameworks** |
@@ -133,37 +164,6 @@ I Love to Help People & Solve Problems
 </div>
 
 </details>
-
----
-
-<div>
-<h4>🛠️ Recent Projects</h4>
-<details open>
-<summary>Learning Sandboxes 📚</summary>
-<a href="https://github.com/itsjordanmuller/2023-react-sandbox">
-  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-react-sandbox&theme=dracula" />
-</a>
-
-<a href="https://github.com/itsjordanmuller/2023-javascript-sandbox">
-  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-javascript-sandbox&theme=dracula" />
-</a>
-
-<a href="https://github.com/itsjordanmuller/2023-python-100-days">
-  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=2023-python-100-days&theme=dracula" />
-</a>
-</details>
-
-<details open>
-<summary>Challenges 🏔️</summary>
-<a href="https://github.com/itsjordanmuller/css-100-days-challenge">
-  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=css-100-days-challenge&theme=dracula" />
-</a>
-
-<a href="https://github.com/itsjordanmuller/50-in-50-html-css-javascript">
-  <img align="center" height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsjordanmuller&repo=50-in-50-html-css-javascript&theme=dracula" />
-</a>
-</details>
-</div>
 
 ---
 
