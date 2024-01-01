@@ -1,5 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=54&duration=2500&pause=2500&color=FF79C6&background=282A36&center=true&vCenter=true&repeat=false&random=false&width=640&height=160&lines=Hi+%F0%9F%91%8B%2C+my+name+is;%F0%9F%8C%87++++Jordan+Muller++%F0%9F%8C%86" alt="My name is Jordan Muller Typing SVG" /></a>
+
 <h3>Hi 👋, my name is Jordan Muller</h3>
 
 [![Education](https://custom-icon-badges.demolab.com/badge/Bachelor%20of%20Science-Computer%20Science-ffa648?style=for-the-badge&logoColor=white&logo=mortar-board)](https://jordanmuller/blog/graduating-with-bachelors-in-comp-sci/)
@@ -191,6 +192,14 @@ I Love to Help People & Solve Problems
 </details>
 
 </details>
+
+---
+
+<img src="https://github.com/itsjordanmuller.png" width="120px"/><br>
+
+> If you have questions/feedback, I would love to hear from you. Thanks for stopping by!
+
+<strong>Jordan Muller</strong>
 
 ---
 
