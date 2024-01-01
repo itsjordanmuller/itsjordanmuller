@@ -7,7 +7,7 @@
 
 Bachelor of Science in Computer Science <br/>
 New Graduate in the California SF Bay Area<br/>
-Passion for Helping People & Solving Problems
+I Love to Help People & Solve Problems
 
 [![My Website](https://custom-icon-badges.demolab.com/badge/Portfolio%20Website-www.jordanmuller.com-a61168?style=for-the-badge&logoColor=white&logo=globe)](https://jordanmuller.com/)<br/>
 [![LinkedIn](https://img.shields.io/badge/connect%20on%20linkedin-@itsjordanmuller-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjordanmuller)<br/>
