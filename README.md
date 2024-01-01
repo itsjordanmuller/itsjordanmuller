@@ -31,7 +31,7 @@ I Love to Help People & Solve Problems
 | [![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://jordanmuller.com/portfolio/tags/sqlite/) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white)](https://jordanmuller.com/portfolio/tags/sql-alchemy/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://jordanmuller.com/portfolio/tags/mongo-db/) [![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white)](https://jordanmuller.com/portfolio/tags/mongoose/) | [![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://jordanmuller.com/portfolio/tags/figma/) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jordanmuller.com/portfolio/tags/jupyter/) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-185A80.svg?style=for-the-badge&logo=graph&logoColor=white)](https://jordanmuller.com/portfolio/tags/matplotlib/) [![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)](https://jordanmuller.com/portfolio/tags/num-py/) [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://jordanmuller.com/portfolio/tags/pandas/) |
 
 <details>
-<summary>More Technologies 📀</summary>
+<summary>More Technologies 📀</summary><br>
 
 [![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white)](https://jordanmuller.com/portfolio/tags/axios/)
 [![Beautiful Soup](https://custom-icon-badges.demolab.com/badge/Beautiful%20Soup-F8F8F2.svg?style=for-the-badge&logoSource=feather&logo=browser&logoColor=black)](https://jordanmuller.com/portfolio/tags/beautiful-soup/)
@@ -62,7 +62,7 @@ I Love to Help People & Solve Problems
 </div>
 
 <details>
-<summary>Glossary - Overview of Tools & Tech 💻</summary>
+<summary>Glossary - Overview of Tools & Tech 💻</summary><br>
 
 <div align="left">
 
@@ -168,27 +168,25 @@ I Love to Help People & Solve Problems
 
 <h4>📊 Contributions & Statistics</h4>
 
-<h5>Graphs Blank/Missing? ❓</h5>
-
-Sometimes graphs don't like to load the first time around.<br>
-If that happens, try to close & open this dropdown or refresh the page!<br><br>
-Let me know if you find of a better fix!
-
 <details open>
-<summary>Most Used Languages 📝</summary>
+<summary>Most Used Languages 📝</summary><br>
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=8&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" /></a>
 </details>
 
+<h5>Graphs Blank/Missing? ❓</h5>
+
+> If graphs don't load the first time around, close & open the dropdown or refresh the page! Let me know if you find a better fix!
+
 <details>
-<summary>View Streak 🔥 & Graph of Last 31 Days 🗓️</summary>
+<summary>View Streak 🔥 &<br>Graph of Last 31 Days 🗓️</summary><br>
 
 <details open>
-<summary>Streak Info 🔥</summary>
+<summary>Streak Info 🔥</summary><br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsjordanmuller&theme=dracula" alt="GitHub Streak" /></a>
 </details>
 
 <details open>
-<summary>Graph of Last 31 Days 🗓️</summary>
+<summary>Graph of Last 31 Days 🗓️</summary><br>
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjordanmuller&theme=dracula" /></a>
 </details>
 
