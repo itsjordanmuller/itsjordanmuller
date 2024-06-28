@@ -174,10 +174,6 @@ I Love to Help People & Solve Problems
 <a href="https://github.com/itsjordanmuller"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjordanmuller&layout=compact&theme=dracula&langs_count=8&size_weight=0.25&count_weight=0.75&hide=Cython,C,c%2B%2B,Fortran,PowerShell,Smarty,Meson,Shell,Forth,Scss" /></a>
 </details>
 
-<h5>Graphs Blank/Missing? ❓</h5>
-
-> If graphs don't load the first time around, close & open the dropdown or refresh the page! Let me know if you find a better fix!
-
 <details>
 <summary>View Streak 🔥 &<br>Graph of Last 31 Days 🗓️</summary><br>
 
