@@ -193,7 +193,7 @@ I Love to Solve Problems and Help People!
 
 <img src="https://github.com/itsjordanmuller.png" width="120px"/><br>
 
-> If you have questions/feedback, I would love to hear from you! Thanks for stopping by!<br>
+> If you have questions or feedback, I would love to hear from you! Thanks for stopping by!<br>
 <strong>- Jordan Muller</strong>
 
 ---
